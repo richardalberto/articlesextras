@@ -1,0 +1,54 @@
+================================
+=== OJS Articles Extras Plugin
+=== Author: Richard González Alberto <damnpoet@gmail.com>
+================================
+
+About
+-----
+The content exposed in this plugin is used as base for some import/export plugins such as SciELO, generic galleys, etc.
+
+License
+-------
+This plugin is licensed under the GNU General Public License v2. See the file COPYING for the complete terms of this license.
+
+System Requirements
+-------------------
+Same requirements as the OJS 2.3.4 core.
+
+Installation
+------------
+To install the plugin:
+ - copy the plugin tar.gz file to your OJS/plugins/generic directory
+ - to unzip the plugin inside the plugins/generic directory:
+    $ tar xvzf articlesExtras-2.0.tar.gz
+ - enable the plugin by going to:  Home > User > Journal Management > Plugin Management > Generic Plugins and selecting "ENABLE" under "Articles Extras"
+
+Contact/Support
+---------------
+Please email the author for support, bugfixes, or comments.
+
+================================================================================================================================================
+
+Acerca
+-----
+El contenido expuesto en este plugin se utiliza como base para algunos plugins de importaci�n/exportaci�n como SciELO, galeradas gen�ricas, etc.
+
+Licencia
+-------
+Este plugin est� licenciado bajo la GNU General Public License v2. Ver el fichero COPYING para los t�rminos completos de esta licencia.
+
+Requerimientos de Sistema
+-------------------
+Los mismos requerimientos que el n�cleo de OJS 2.2.
+
+Instalación
+------------
+Para instalar el plugin:
+ - copia el fichero tar.gz hacia tu directorio OJS/plugins/generic
+ - para extraer el plugin dentro del directorio plugins/generic:
+    $ tar xvzf articlesExtras-2.0.tar.gz
+ - activa el plugin en: Inicio > Usuario > Gestión de la revista > System Plugins > Plugins genéricos y selecciona "Activar" bajo "Complementos para Artículos"
+
+Contacto/Soporte
+---------------
+Por favor escribir al autor para soporte, corrección de errores, o comentarios.

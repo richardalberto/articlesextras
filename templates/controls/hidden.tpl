@@ -1,0 +1,1 @@
+<input type="hidden" id="{$part}" name="{$part}" value="{$title}"/>
