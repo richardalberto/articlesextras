@@ -34,7 +34,7 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/da
 
 ## Author
 
-**Richard González**
+**Richard González Alberto**
 
 + [http://twitter.com/damnpoet](http://twitter.com/damnpoet)
 + [http://github.com/damnpoet](http://github.com/damnpoet)
