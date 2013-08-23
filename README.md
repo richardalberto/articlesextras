@@ -14,15 +14,17 @@ This plugin is licensed under the GNU General Public License v2. See the file CO
 
 Open Journal System > 2.4.0
 
+# Plugin Installation
+ - Download the latest release 
 
-
-# Installation
+# Manual Installation
 
 To install the plugin:
- - copy the plugin folder file to your OJS/plugins/importexport directory
- - to unzip the plugin inside the plugins/importexport directory:
-    $ tar xvzf scielo-1.0.tar.gz
+ - copy the plugin folder file to your OJS/plugins/generic directory
+ - to unzip the plugin inside the plugins/generic directory:
+    $ tar xvzf articlesExtras-1.0.tar.gz
  - export contents by going to:  Home > User > Journal Management > Import/Export > Export issues & articles to SciELO
+ - add record to versions table on your OJS installation.
 
 
 
