@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+<!--  
+* locale.xml  
+*  
+* Localization strings for the pt_BR (Português (brasileiro)) locale.  
+* translation by Renato Mendes Rocha (@mendesrocha)
+*  --> 
+<locale name="pt_BR" full_name="Português (brasileiro)">	
+	<message key="plugins.generic.articlesExtras.displayName">Extras para Artigos</message>	
+	<message key="plugins.generic.articlesExtras.description">Este plugin permite acrescentar conteúdo aos metadados de artigos publicados.</message>	
+	<message key="plugins.generic.articlesExtras.editContent">Editar conteúdo.</message>	
+	<message key="plugins.generic.articlesExtras.body">Incluir/Editar o corpo dos Artigos</message>
+	<message key="plugins.generic.articlesExtras.images">Incluir/editar as imagenes dos Artigos</message>	
+	<message key="plugins.generic.articlesExtras.citations">Incluir/editar as Referências Bibliográficas</message>	
+	<message key="plugins.generic.articlesExtras.selectIssue.name">Selecionar número.</message>	
+	<message key="plugins.generic.articlesExtras.selectArticle.name">Selecionar artigo.</message>	
+	<message key="plugins.generic.articlesExtras.editCitations">Editar referências bibliograficas.</message>	
+	<message key="plugins.generic.articlesExtras.editImages">Editar imagens.</message>		
+	<message key="plugins.generic.articlesExtras.nocitationsfound">Não há citações neste artigo</message>	
+	<message key="plugins.generic.articlesExtras.form.introduction">O conteúdo exposto por este plugin é utilizado como base para alguns plugins de importação/exportação para o SciELO, provas genéricas, etc.</message>	
+	<message key="plugins.generic.articlesExtras.form.body">Corpo o artigo</message>	
+	<message key="plugins.generic.articlesExtras.form.newcitation">Nova citação</message>     
+	<message key="plugins.generic.articlesExtras.form.nocurrentcitations">Não há citações para este artigo ainda. Para cria-las utilize o formulário exibido na sequência.</message>	
+	<message key="plugins.generic.articlesExtras.form.citations.desc"><![CDATA[A citação deve ser feita utilizando o formato Vancoucer. Ex: <br />Sánchez , Torres LA, Mena RG, Cabarroca FC.Cirugía torácica asistida por video. Experiencias en el Hospital “Dr. Gustavo Aldereguía Lima”. MediSur [serie en ternet]. 2008 marzo 25; [citado 2008 abril 19]; 6(1):[aprox. p.]. Disponible en: http://www.medisur.sld.cu/index.php/medisur/article/view/348 ]]></message>					
+	<message key="plugins.generic.articlesExtras.citations.authors">Autores</message>	
+	<message key="plugins.generic.articlesExtras.citations.title">Título</message>        
+	<message key="plugins.generic.articlesExtras.citations.typetitle">Tipo do Titulo</message>	
+	<message key="plugins.generic.articlesExtras.citations.source">Fonte</message>        
+	<message key="plugins.generic.articlesExtras.citations.typesource">Tipo da Fonte</message>	
+	<message key="plugins.generic.articlesExtras.citations.date">Data de Publicação</message>        
+	<message key="plugins.generic.articlesExtras.citations.dateweb">Data do Copyright</message>	
+	<message key="plugins.generic.articlesExtras.citations.volume">Volume</message>        
+	<message key="plugins.generic.articlesExtras.citations.supplvolume">Suplemento de um Volume</message>
+	<message key="plugins.generic.articlesExtras.citations.partvolume">Parte de um Volume</message>	
+	<message key="plugins.generic.articlesExtras.citations.issue">Número</message>        
+	<message key="plugins.generic.articlesExtras.citations.supplissue">Suplemento de um Número</message>
+	<message key="plugins.generic.articlesExtras.citations.partissue">Parte de um Número</message>	
+	<message key="plugins.generic.articlesExtras.citations.pages">Páginas</message>	
+	<message key="plugins.generic.articlesExtras.citations.pageTitleWeb">Titulo Pagina Web (Específica)</message>        
+	<message key="plugins.generic.articlesExtras.citations.pagewebsite">Página (Site Web)</message>
+	<message key="plugins.generic.articlesExtras.citations.pagecount">Páginas (Aprox. )</message>	
+	<message key="plugins.generic.articlesExtras.citations.pages.from">Desde</message>	
+	<message key="plugins.generic.articlesExtras.citations.pages.to">Até</message>	
+	<message key="plugins.generic.articlesExtras.citations.retractionin">Retratação em</message>       
+	<message key="plugins.generic.articlesExtras.citations.retractionof">Retratação de</message>        
+	<message key="plugins.generic.articlesExtras.citations.correction">Correção em</message>	
+	<message key="plugins.generic.articlesExtras.citations.epub">Publicação electrônica</message>	
+	<message key="plugins.generic.articlesExtras.citations.erratum">Erratas em</message>	
+	<message key="plugins.generic.articlesExtras.citations.republished">Reeditado</message>	
+	<message key="plugins.generic.articlesExtras.citations.discussion">Discussão</message>	
+	<message key="plugins.generic.articlesExtras.citations.type">Tipo</message>	
+	<message key="plugins.generic.articlesExtras.citations.part">Parte</message>	
+	<message key="plugins.generic.articlesExtras.citations.supp">Suplemento</message>	
+	<message key="plugins.generic.articlesExtras.citations.orgAuthors">Organização dos autores</message>	
+	<message key="plugins.generic.articlesExtras.citations.databaseUID">Identificador único na Base de Dados</message>	
+	<message key="plugins.generic.articlesExtras.citations.edition">Edição</message>	
+	<message key="plugins.generic.articlesExtras.citations.editors">Editor(es), Organizador(es)</message>	
+	<message key="plugins.generic.articlesExtras.citations.pubPlace">Local da publicação</message>	
+	<message key="plugins.generic.articlesExtras.citations.editorial">Editorial</message>	
+	<message key="plugins.generic.articlesExtras.citations.book">Livro</message>        
+	<message key="plugins.generic.articlesExtras.citations.bookchapter">Capítulo de livro</message>	
+	<message key="plugins.generic.articlesExtras.citations.bookchapter.title">Título do Capítulo do livro</message>	
+	<message key="plugins.generic.articlesExtras.citations.bookchapter.authors">Autores do Capítulo do livro</message>	
+	<message key="plugins.generic.articlesExtras.citations.conference">Congresso</message>	
+	<message key="plugins.generic.articlesExtras.citations.confNumber">Congresso Nro</message>	
+	<message key="plugins.generic.articlesExtras.citations.confArticle">Artigo de congresso</message>
+	<message key="plugins.generic.articlesExtras.citations.sponsor">Patrocinador</message>	
+	<message key="plugins.generic.articlesExtras.citations.state_country">Estado/País</message>	
+	<message key="plugins.generic.articlesExtras.citations.city">Cidade</message>        
+	<message key="plugins.generic.articlesExtras.citations.state">Estado</message>	
+	<message key="plugins.generic.articlesExtras.citations.patentUID">Identificador Unico de Patente</message>	
+	<message key="plugins.generic.articlesExtras.citations.report">Relatório</message>	
+	<message key="plugins.generic.articlesExtras.citations.contract">Contrato</message>	
+	<message key="plugins.generic.articlesExtras.citations.sponsored">Patrocinado por</message>	
+	<message key="plugins.generic.articlesExtras.citations.c">C</message>	
+	<message key="plugins.generic.articlesExtras.citations.c.from">Desde</message>	
+	<message key="plugins.generic.articlesExtras.citations.c.to">Até</message>	
+	<message key="plugins.generic.articlesExtras.citations.citdate">Data da citação</message>      
+	<message key="plugins.generic.articlesExtras.citations.upddate">Data da última atualização</message>	
+	<message key="plugins.generic.articlesExtras.citations.url">URL</message>	
+	<message key="plugins.generic.articlesExtras.citations.updated">Atualizado</message>	
+	<message key="plugins.generic.articlesExtras.citations.makeCitation">Nova Citação</message>	
+	<message key="plugins.generic.articlesExtras.citations.language">Idioma</message>	
+	<message key="plugins.generic.articlesExtras.citations.uid">Identificador único</message>	
+	<message key="plugins.generic.articlesExtras.citations.pageTitle">Título da pagina</message>	
+	<message key="plugins.generic.articlesExtras.citations.screens">Janelas</message>	
+	<message key="plugins.generic.articlesExtras.citations.section">Seção (Revista)</message>	
+	<message key="plugins.generic.articlesExtras.citations.col">Coluna (Revista)</message>	
+	<message key="plugins.generic.articlesExtras.citations.partTitle">Título da Parte</message>      
+	<message key="plugins.generic.articlesExtras.citations.forthcoming">Data de exibição (Trabajos não publicados)</message>        
+	<message key="plugins.generic.articlesExtras.citations.add">Incluir</message>                
+	<message key="plugins.generic.articlesExtras.citation.in">Em</message>        
+	<message key="plugins.generic.articlesExtras.citation.editors">editores</message>        
+	<message key="plugins.generic.articlesExtras.citation.updated">atualizado</message>        
+	<message key="plugins.generic.articlesExtras.citation.cited">citado</message>        
+	<message key="plugins.generic.articlesExtras.citation.availablefrom">Disponível em</message>        
+	<message key="plugins.generic.articlesExtras.citation.forthcoming">De próxima exibição</message>
+	<message key="plugins.generic.articlesExtras.citation.sect">Sec.</message>        
+	<message key="plugins.generic.articlesExtras.citation.discussion">discusão</message>        
+	<message key="plugins.generic.articlesExtras.citation.corrected_republished_from">Corrigido e republicado a partir de</message>        
+	<message key="plugins.generic.articlesExtras.citation.retraction">Retratação</message>        
+	<message key="plugins.generic.articlesExtras.citation.of">de</message>		
+	<message key="plugins.generic.articlesExtras.citations.editor.edit">Editar Citações</message>	
+	<message key="plugins.generic.articlesExtras.citations.editor.check">Conferir Citações</message>	
+	<message key="plugins.generic.articlesExtras.citations.editor.loadMessage">Carregando o editor de citação Citas. Por favor, aguarde</message>        
+	<message key="plugins.generic.articlesExtras.authors">Autores</message> 
+	<message key="plugins.generic.articlesExtras.authors.info">Informação adicional para autores</message> 
+	<message key="plugins.generic.articlesExtras.authors.orgname">Organização a que pertence</message>
+	<message key="plugins.generic.articlesExtras.authors.orgdiv1">Divisão 1</message> 
+	<message key="plugins.generic.articlesExtras.authors.orgdiv2">Divisão 2</message> 
+	<message key="plugins.generic.articlesExtras.authors.orgdiv3">Divisão 3</message> 
+	<message key="plugins.generic.articlesExtras.authors.city">Cidade</message> 
+	<message key="plugins.generic.articlesExtras.authors.state">Estado (UF)</message> 
+	<message key="plugins.generic.articlesExtras.authors.zipcode">CEP</message>
+</locale>
