@@ -52,7 +52,10 @@ To install the plugin:
     ```
     index.php/[journalId]/manager/plugins/generic
     ```
-
+ - acces the plugin here:
+    ```
+    index.php/[journalId]/editor
+    ```
 
 ## Bug tracker
 
