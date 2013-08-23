@@ -1,6 +1,6 @@
 # OJS-ArticlesExtras
 
-OJS plugin that enables full text articles on Open Journal System (http://pkp.sfu.ca/ojs). Articles Extras adds extra fields not probided by OJS like article body, citations, and article body images. 
+OJS plugin that enables full text articles on Open Journal System (http://pkp.sfu.ca/ojs). Articles Extras adds extra fields not not available on OJS like article body, citations, and article body images. 
 The objetive is to store full text articles on the OJS db for later use with export/generic plugins. 
 
 
