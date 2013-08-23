@@ -48,6 +48,10 @@ To install the plugin:
     '2', '1', '0', '0', NOW(), '1', 'plugins.generic', 'articlesExtras', 'ArticlesExtrasPlugin', '1', '0'
     );
     ```
+ - enable the plugin at:
+    ```
+    index.php/[journalId]/manager/plugins/generic
+    ```
 
 
 ## Bug tracker
