@@ -26,9 +26,28 @@ Open Journal System > 2.4.0
 To install the plugin:
  - copy the plugin folder file to your OJS/plugins/generic directory
  - to unzip the plugin inside the plugins/generic directory:
+    ```
     $ tar xvzf articlesExtras-1.0.tar.gz
+    ```
  - add record to versions table on your OJS installation.
-
+    ```
+    INSERT INTO `ojs`.`versions` (
+    `major` ,
+    `minor` ,
+    `revision` ,
+    `build` ,
+    `date_installed` ,
+    `current` ,
+    `product_type` ,
+    `product` ,
+    `product_class_name` ,
+    `lazy_load` ,
+    `sitewide`
+    )
+    VALUES (
+    '2', '1', '0', '0', NOW(), '1', 'plugins.generic', 'articlesExtras', 'ArticlesExtrasPlugin', '1', '0'
+    );
+    ```
 
 
 ## Bug tracker
