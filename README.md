@@ -17,7 +17,9 @@ Open Journal System > 2.4.0
 # Plugin Installation
  - Download the latest release.
  - On the plugins page of OJS upload the downloaded release and install.
+   ```   
    index.php/[journalid]/manager/managePlugins/installPlugin
+   ```
 
 # Manual Installation
 
