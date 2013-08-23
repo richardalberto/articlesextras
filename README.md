@@ -15,7 +15,8 @@ This plugin is licensed under the GNU General Public License v2. See the file CO
 Open Journal System > 2.4.0
 
 # Plugin Installation
- - Download the latest release 
+ - Download the latest release.
+ - On the plugins page of OJS upload the downloaded release and install.
 
 # Manual Installation
 
